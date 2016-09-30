@@ -47,7 +47,7 @@ This is a **discussion repo**. That means that all of the work gets done in the 
 ## Related Work:
 
 - continuity: https://github.com/stevvooe/continuity
-- `asar`: https://github.com/atom/asar
+- `asar`: https://github.com/electron/asar
 - IPFS: https://github.com/ipfs/ipfs
 - IPLD: https://github.com/ipfs/specs/tree/master/merkledag/ipld.md
 - ipfs/unixfs: https://github.com/ipfs/go-ipfs/tree/master/unixfs
