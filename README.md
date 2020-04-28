@@ -1,11 +1,13 @@
-# archive-format
+# [DEPRECATED] archive-format
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 [![](https://img.shields.io/badge/discussion_repo-go_to_issues-brightgreen.svg?style=flat-square)](https://github.com/ipfs/archive-format/issues)
 
-> car - Certified ARchives -- WIP
+> car - Certified ARchives
+
+#### IMPORTANT! This work has been superseded by https://github.com/ipld/specs/blob/a3c982518232b79123af2a2cf5e8642162c62524/block-layer/content-addressable-archives.md ####
 
 **(WIP -- quick thought dump)**
 
